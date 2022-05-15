@@ -1,0 +1,39 @@
+.login-design{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    
+     
+}
+.login-wrap{
+    display: flex;
+    background-color: beige;
+    width: auto;
+    padding: 60px;
+    flex-direction: column;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    align-items: center;
+    gap: 15px;
+    border-radius: 15px;
+}
+.login-button{
+    font-size: medium;
+    border: transparent;
+    border-radius: 5px;
+    background-color: rgba(88, 155, 255, 0.842);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    width: 100px;
+    height: 35px;
+   
+}
+.register-button{
+    font-size: medium;
+    border: transparent;
+    border-radius: 5px;
+    background-color: rgba(88, 155, 255, 0.842);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+    width: 100px;
+    height: 35px;
+   
+}
